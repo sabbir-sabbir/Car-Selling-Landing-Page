@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    
+    color: #0D0A19 !important; 
+    font-weight: 600;
+   font-size: 16px;
+}
+
+.bi-person{
+    color: #9A9EA7;
+   background-color: #f5f6f7;
+   padding: 5px;
+
+   border-radius: 7px;
+
+}
+.NavbarButton span {
+    color: #9A9EA7;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+/* Hero aria */
+.TestDrive{
+    margin: 24px;
+}
+.carousel-control-next-icon{
+    align-items: center;
+    background-color:  #f5f6f714;
+    border-radius: 2px;
+    padding: 8px;
+}
+.carousel-control-prev-icon{
+    align-items: center;
+    background-color:  #f5f6f714;
+    border-radius: 2px;
+    padding: 12px;
+}
+
+/* filter aria */
+.main-section{
+    line-height: 40px;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.vertical-line{
+    width: 1.5px;
+    height: 33px;
+    margin-top: 30px;
+    margin-right: 3px;
+    background-color: #EDE8E9;
+}
+.filter-search-label{
+  color: #9A9EA7;
+  line-height: 25px;
+
+}
+.filter-search-select{
+    border: none !important;
+    outline: none !important;
+    width: 144px;
+    line-height: 24px;
+    
+}
+.search-button{
+    color: white;
+    width: 120px;
+    height: 46px;
+    border-radius: 10px;
+    background-color: #7963F0 !important;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.filter-search-box{
+    width: 100% ;
+    max-width: 945px;
+    padding: 18px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0px 3px 4px 0px rgba(153, 155, 168, 0.25);
+}
+/* Trnding section */
+.Trending-Header{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.card-text{
+    color: #9A9EA7;
+}
+.price-btn{
+    outline: none !important;
+    border: none !important;
+    color: white;
+    background-color: #7863f0cc !important;
+}
+.Bestseller{
+    outline: none !important;
+    border: none !important;
+    background-color: #f5f6f7 !important;
+    color: #9A9EA7  !important;
+}
+/* Explorer */
+.vw-add{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    
+    
+}
+.vw-logo{
+    width: 25px;
+    height: 25px;
+    margin-right: 15px;
+}
+.vw-text{
+    font-size: 1.5rem;
+    font-weight: bold;
+
+
+}
+.vw-price{
+    font-size: 1rem;
+    color: #9A9EA7;
+}
+.custom-class{
+   padding: 40px;
+   margin-bottom: 10px;
+}
+/* Recent reviews */
+.review {
+    width: 361px;
+  }
+  .reviewMt {
+    padding-top: 80px;
+  }
+  .reviewTitle {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    color: #0d0a19 !important;
+  }
+  .car {
+    width: 600px !important;
+    height: 400px !important;
+    margin: 0 auto;
+  }
+  .car1 {
+    width: 800px !important;
+    height: 400px !important;
+    margin: 0 auto;
+  }
+/* Map */
+.find-map-div{
+    width: 100%;
+    height: 800px;
+    padding-top: 100px;
+    background-image: url(img/Map.png);
+    background-size: cover;
+    
+}
