@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg">
         <div className="container ">
            <a href="">
-            <img src="\public\img\mainlogo.png" alt="car-logo" />
+            <img src="img\mainlogo.png" alt="car-logo" />
            </a>
            <button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-toggler">
 
