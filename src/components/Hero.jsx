@@ -15,7 +15,7 @@ export default function Hero() {
            
         </div>
         <div className="Heroimg">
-            <img className="d-block w-100"  src="\public\img\hero.png" alt="hero-image" />
+            <img className="d-block w-100"  src="img\hero.png" alt="hero-image" />
         </div>
       </Carousel.Item>
 
@@ -30,7 +30,7 @@ export default function Hero() {
            
         </div>
         <div className="Heroimg">
-            <img className="d-block w-100"  src="\public\img\hero.png" alt="hero-image" />
+            <img className="d-block w-100"  src="img\hero.png" alt="hero-image" />
         </div>
       </Carousel.Item>
 
@@ -45,7 +45,7 @@ export default function Hero() {
            
         </div>
         <div className="Heroimg">
-            <img className="d-block w-100"  src="\public\img\hero.png" alt="hero-image" />
+            <img className="d-block w-100"  src="img\hero.png" alt="hero-image" />
         </div>
       </Carousel.Item>
       </Carousel>
